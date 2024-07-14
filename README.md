@@ -6,6 +6,21 @@
 
   ![introductory gif](hw.gif)
 
+<details>
+<summary>list of languages I tried</summary>
+  | Index | Language |
+| ----------- | ----------- |
+| 1 | c, cpp |
+| 2 | java |
+| 3 | python |
+| 4 | html, css |
+| 5 | php |
+| 6 | c# |
+| 7 | java script |
+| 8 | FASM |
+| 9 | SQL |
+</details>
+
 <!--
 **shay-abramov/shay-abramov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
