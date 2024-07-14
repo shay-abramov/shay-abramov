@@ -4,7 +4,7 @@
 - 🕮 I’m currently studying at the university of Jerusalem
 - 🔬 This user was made for works related to courses I take
 
-  ![from a trip I toke](tmp.jpg)
+  ![introductory gif](hw.gif)
 
 <!--
 **shay-abramov/shay-abramov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
