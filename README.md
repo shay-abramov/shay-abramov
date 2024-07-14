@@ -8,7 +8,8 @@
 
 <details>
 <summary>list of languages I tried</summary>
-  | Index | Language |
+  
+| Index | Language |
 | ----------- | ----------- |
 | 1 | c, cpp |
 | 2 | java |
