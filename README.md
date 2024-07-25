@@ -4,7 +4,7 @@
 - 🕮 I’m currently studying at the university of Jerusalem
 - 🔬 This user was made for works related to courses I take
 
-  ![introductory gif](hw.gif)
+  ![introductory gif](pepsim.gif)
 
 <details>
 <summary>list of languages I tried</summary>
