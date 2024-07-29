@@ -1,6 +1,6 @@
 ## About Me
 - 👋 Hi, I’m @shai-abramov
-- 👀 I’m interested in finding new friends
+- 👀 I’m interested in learning fundamental programming skills
 - 🕮 I’m currently studying at the university of Jerusalem
 - 🔬 This user was made for works related to courses I take
 
