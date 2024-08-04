@@ -23,12 +23,12 @@
 </details>
 
 <details>
-  <summary></summary>
+  <summary>Tools I can use</summary>
 
-| Index | Language |
+| Index | program |
 | ---------- | ------------ |
 | 1 | git, github |
-| 2 | vscode, jetbrain products, code::blocks, vim and various other IDE |
+| 2 | vscode, jetbrain products, code::blocks, vim and various other IDEs |
 | 3 | Docker |
 | 4 | CMake |
 </details>
