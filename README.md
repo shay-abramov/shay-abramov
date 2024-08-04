@@ -22,6 +22,17 @@
 | 9 | SQL |
 </details>
 
+<details>
+  <summary></summary>
+
+| Index | Language |
+| ---------- | ------------ |
+| 1 | git, github |
+| 2 | vscode, jetbrain products, code::blocks, vim and various other IDE |
+| 3 | Docker |
+| 4 | CMake |
+</details>
+
 <!--
 **shay-abramov/shay-abramov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
