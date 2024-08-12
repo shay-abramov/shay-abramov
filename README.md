@@ -7,6 +7,7 @@
   ![introductory gif](pepsim.gif)
 
   ![making_space_gif](making-space.gif)
+  <!-- the gif above resulotion is 320x288  ---!>
   
 <details>
 <summary>list of languages I tried</summary>
