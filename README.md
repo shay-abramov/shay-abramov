@@ -6,6 +6,8 @@
 
   ![introductory gif](pepsim.gif)
 
+  ![making_space_gif](making-space.gif)
+  
 <details>
 <summary>list of languages I tried</summary>
   
