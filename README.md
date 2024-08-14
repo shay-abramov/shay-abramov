@@ -4,11 +4,12 @@
 - 🕮 I’m currently studying at the university of Jerusalem
 - 🔬 This user was made for works related to courses I take
 
-  ![introductory gif](pepsi.gif)
-  <!-- the gif above resulotion is 320x180  ---!>
+  ![introductory gif](pepsi.gif)  
   
   ![making_space_gif](making-space.gif)
-  <!-- the gif above resulotion is 320x288  ---!>
+  <!--
+  the gif above resulotion is 320x180,and 320x288
+  ---!>
   
 <details>
 <summary>list of languages I tried</summary>
