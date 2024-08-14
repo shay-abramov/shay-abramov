@@ -4,8 +4,9 @@
 - 🕮 I’m currently studying at the university of Jerusalem
 - 🔬 This user was made for works related to courses I take
 
-  ![introductory gif](pepsim.gif)
-
+  ![introductory gif](pepsi.gif)
+  <!-- the gif above resulotion is 320x180  ---!>
+  
   ![making_space_gif](making-space.gif)
   <!-- the gif above resulotion is 320x288  ---!>
   
