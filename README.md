@@ -23,8 +23,10 @@
 | 5 | php |
 | 6 | c# |
 | 7 | java script |
-| 8 | FASM |
+| 8 | ASM (tried several instruction sets, used FASM, MASM and TASM.) |
 | 9 | SQL |
+| 10 | Fortran |
+| 11 | Matlab |
 </details>
 
 <details>
