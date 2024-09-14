@@ -35,6 +35,8 @@
 | 2 | vscode, jetbrain products, code::blocks, vim and various other IDEs |
 | 3 | Docker |
 | 4 | CMake |
+| 5 | Shell |
+| 6 | Gimp, LMMS, Adobe products (creative file editing) |
 </details>
 
 <!--
