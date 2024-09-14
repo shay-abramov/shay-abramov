@@ -1,8 +1,5 @@
 ## About Me
-- 👋 Hi, I’m @shai-abramov
-- 👀 I’m interested in learning fundamental programming skills
-- 🕮 I’m currently studying at the university of Jerusalem
-- 🔬 This user was made for works related to courses I take
+- 👋 Hi, I’m Shay. I store here code snippets and projects.
 
   ![introductory gif](pepsi.gif)  
   
