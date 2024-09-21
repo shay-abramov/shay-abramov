@@ -24,6 +24,7 @@
 | 9 | SQL |
 | 10 | Fortran |
 | 11 | Matlab |
+| 12 | Bash |
 </details>
 
 <details>
