@@ -1,5 +1,5 @@
 ## About Me
-- 👋 Hi, I’m Shay. I store here code snippets and projects.
+I store here code snippets and projects.
 
   ![introductory gif](pepsi.gif)  
   
@@ -34,10 +34,10 @@
 | ---------- | ------------ |
 | 1 | git, github |
 | 2 | vscode, jetbrain products, code::blocks, vim and various other IDEs |
-| 3 | Docker |
-| 4 | CMake |
-| 5 | Shell |
-| 6 | Gimp, LMMS, Adobe products (creative file editing) |
+| 3 | CMake |
+| 4 | Shell |
+| 5 | Gimp, LMMS, Adobe products (creative file editing) |
+| 6 | Libreoffice stuff |
 </details>
 
 <!--
