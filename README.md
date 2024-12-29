@@ -5,11 +5,10 @@ I store here code snippets and projects.
   
   ![making_space_gif](making-space.gif)
 
+  ![nand_gif](nand.gif)
   <!--
   the gif above resulotion is 320x180,and 320x288
   ---!>
-  
-  ![nand_gif](nand.gif)
 <details>
 <summary>list of languages I tried</summary>
   
