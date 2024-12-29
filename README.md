@@ -11,7 +11,6 @@ I store here code snippets and projects.
   ---!>
 <details>
 <summary>list of languages I tried</summary>
-  
 | Index | Language |
 | ----------- | ----------- |
 | 1 | c, cpp |
@@ -26,6 +25,7 @@ I store here code snippets and projects.
 | 10 | Fortran |
 | 11 | Matlab |
 | 12 | Bash |
+| 13 | Lisp |
 </details>
 
 <details>
